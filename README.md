@@ -2,6 +2,8 @@
 
 SmartHire Chatbot is an intelligent website content analysis tool that uses Google's Gemini Pro AI to provide insightful answers about any website's content. Simply provide a URL, and start asking questions about the content.
 
+[live Demo](https://smart-hire-chatbot.vercel.app/)
+
 ## 🌟 Features
 
 - **Website Content Scraping**: Automatically extracts and analyzes content from any website URL
@@ -11,6 +13,14 @@ SmartHire Chatbot is an intelligent website content analysis tool that uses Goog
 - **Smooth Animations**: Animated message transitions and auto-scrolling
 - **Responsive Design**: Fully responsive layout that works on all screen sizes
 - **Error Handling**: Comprehensive error handling with user-friendly messages
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/5588e531-6314-4708-864f-f81fb765ea25)
+
+![image](https://github.com/user-attachments/assets/f4891f30-33d5-4845-8d0f-82e959d56882)
+
+
 
 ## 🚀 Tech Stack
 
@@ -129,9 +139,6 @@ Features:
 4. Push to the branch
 5. Open a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
