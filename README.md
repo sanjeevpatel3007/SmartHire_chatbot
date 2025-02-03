@@ -149,4 +149,4 @@ For support:
 
 ---
 
-Built with ❤️ by SmartHire Team
+Built with ❤️ by Sanjeev Patel
